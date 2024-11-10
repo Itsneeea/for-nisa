@@ -16,5 +16,5 @@ reply: 'Love you, love you, whether I love you or not <33333333',
 mess: 'I knew it 🥰. Love you so much 😘😘',
 messDesc: 'ThankYouuu',
 btnAccept: 'Okieeee <3',
-messLink: 'https://wa.me/6281254203735?text=Yesss%3C333';
+messLink: 'https://wa.me/6281254203735?text=Yesss%3C333'}
 
