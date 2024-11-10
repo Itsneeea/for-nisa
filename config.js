@@ -1,6 +1,6 @@
 const CONFIG = {
    titleWeb: "For Nisa",
-introTitle: 'Allo Nosa',
+introTitle: 'Allo Nisa',
 introDesc: `The earth is strange by nature
     Yet you keep taking the wrong path
     Wandering into my lonely heart
