@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+   titleWeb: "For Nisa",
+introTitle: 'Allo Nosa',
+introDesc: `The earth is strange by nature
+    Yet you keep taking the wrong path
+    Wandering into my lonely heart
+    Behind the word "love" is "affection"`,
+btnIntro: '^^HiHi^^',
+title: 'Could it be love at first sight 🥰',
+desc: 'Could it be that I fell for that smile from the start',
+btnYes: 'Really like it <33',
+btnNo: 'Nope :3',
+question: 'Out of over 7 billion people, do you love me? <3',
+btnReply: 'Send to you <3',
+reply: 'Love you, love you, whether I love you or not <33333333',
+mess: 'I knew it 🥰. Love you so much 😘😘',
+messDesc: 'ThankYouuu',
+btnAccept: 'Okieeee <3',
+messLink: 'https://wa.me/6281254203735?text=Yesss%3C333';
+
